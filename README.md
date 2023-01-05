@@ -46,7 +46,7 @@ Se dispone de 4 datasets relacionados por las dimensiones 'Año', 'Trimestre' y 
 
 <img src="src\variacion_porcentual_100_hogares.jpg">
 
-##### Se puede observar que en general la variación porcentual por cada 100 hogares es positiva a nivel nacional y a través de los años, mismo comportamiento observado a nivel provincial (para visualizar la variación por provincia, revisar el archivo .pbix adjuntado en el repositorio).
+##### Se puede observar que en general, la variación porcentual por cada 100 hogares es positiva a nivel nacional y a través de los años, mismo comportamiento observado a nivel provincial (para visualizar la variación por provincia, revisar el archivo .pbix adjuntado en el repositorio).
 <br>
 
 *Acceso a internet por rangos de velocidad de bajada*
