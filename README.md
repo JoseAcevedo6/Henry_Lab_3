@@ -44,7 +44,8 @@ Se dispone de 4 datasets relacionados por las dimensiones 'Año', 'Trimestre' y 
 
 *Variación porcentual de acceso a internet por cada 100 hogares*
 
-![acceso_por_100_hogares](src\variacion_porcentual_100_hogares.jpg)
+<img src="src\variacion_porcentual_100_hogares.jpg">
+
 ##### Se puede observar que en general la variación porcentual por cada 100 hogares es positiva a nivel nacional y a través de los años, mismo comportamiento observado a nivel provincial (para visualizar la variación por provincia, revisar el archivo .pbix adjuntado en el repositorio).
 <br>
 
@@ -57,13 +58,15 @@ Se dispone de 4 datasets relacionados por las dimensiones 'Año', 'Trimestre' y 
 
 *Velocidad media de bajada de internet*
 
-![velocidad_media_bajada](src\velocidad_media_bajada.jpg)
+<img src="src\velocidad_media_bajada.jpg">
+
 ##### Cerca de multiplicar por 4 la media de hace 4 años y correlacionándose con la gráfica anterior, el 2022 destaca con una media de velocidad de bajada por encima de los 30 Mbps.
 <br>
 
 *Acceso a internet por tecnología*
 
-![acceso_por_tecnologia](src\acceso_por_tecnologia.jpg)
+<img src="src\acceso_por_tecnologia.jpg">
+
 ##### Visualmente se puede establecer que la tecnología ADSL está disminuyendo, la tecnología Cable modem y Wireless se mantienen a la vez que la tecnología Fibra Óptica duplica sus valores en el 2022 en relación al 2020.  
 <br>
 
