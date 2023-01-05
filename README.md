@@ -71,11 +71,11 @@ Se dispone de 4 datasets relacionados por las dimensiones 'Año', 'Trimestre' y 
 <br>
 
 ### Conclusiones del EDA
-El acceso a internet se ha vuelto una necesidad fundamental en la vida cotidiana de las personas, son numerosas las actividades que se benefician al realizar esta práctica. Es por esto que se puede observar que el crecimiento en la cantidad de accesos es sostenido en el tiempo, que el cambio a ciertas tecnologías puede incrementar las velocidades de acceso a la información.
+El acceso a internet se ha vuelto una necesidad fundamental en la vida cotidiana de las personas, son numerosas las actividades que se benefician al realizar esta práctica. Es por esto que se puede observar que el crecimiento en la cantidad de accesos es sostenido en el tiempo, que nuevas tecnologías están relacionadas con mayores velocidades de acceso a la información.
 
 Es relevante destacar una variación negativa en la cantidad de accesos a finales del 2019 acompañada de una variación positiva a inicios del 2020 que se observa en varias provincias. Esto pudiera corresponder con el cambio de gobierno y la llegada de la pandemia respectivamente. Y es que este último acontecimiento, a pesar de todas sus consecuencias negativas, cambio la forma de cómo se interactúa con el mundo; cambiando aulas de clase y oficinas de trabajo por espacios en el hogar, restaurantes y citas médicas por aplicaciones. 
 
-A pesar de los valores positivos en la cantidad de accesos a nivel nacional, se detecta que varias provincias tienen una velocidad de conexión muy por debajo de la media, ausencia de tecnologías como la fibra óptica y menos de 50 accesos por cada 100 hogares. 
+No obstante, a pesar de los valores positivos en la cantidad de accesos a nivel nacional, se detecta que varias provincias tienen una velocidad de conexión muy por debajo de la media, ausencia de tecnologías como la fibra óptica y menos de 50 accesos por cada 100 hogares. 
 
 Por tal motivo, sumado la tendencia creciente en los accesos a internet y las nuevas formas de realizar las actividades cotidianas, se sugiere:
 - Expandir y mejorar la infraestructura a fin de llegar a nuevas ubicaciones, incrementar las velocidades de conexión y aumentar el ancho de banda.
