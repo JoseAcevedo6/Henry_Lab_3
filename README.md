@@ -11,7 +11,7 @@ En comparación con la media mundial, Argentina está a la vanguardia del desarr
 
 ## **Rol a desarrollar**
 
-En este contexto, una empresa prestadora de servicios de telecomunicaciones encarga la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Con el fin de monitorear la eficacia de los objetivos de la empresa, se solicita **visualizar 4 KPI's** en un dashboard producto de su análisis.
+En este contexto, una empresa prestadora de servicios de telecomunicaciones encarga la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Con el fin de monitorear la eficacia de los objetivos de la empresa, se solicita **visualizar 4 KPI's** en un dashboard producto del análisis.
 <br></br>
 
 ## **Análisis exploratorio de los datos**
