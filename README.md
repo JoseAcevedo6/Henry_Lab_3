@@ -1,7 +1,6 @@
-![Conexiones](https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/jpg/2021/09/522982.jpg)
-
-
 # <h1 align="center">:computer: **`Acceso a Internet`** :computer:</h1>
+
+![Conexiones](https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/jpg/2021/09/522982.jpg)
 
 ## **Contexto**
 La industria de las telecomunicaciones ha jugado un papel vital en nuestra sociedad, facilitando la información a escala internacional y permitiendo la comunicación continua incluso en medio de una pandemia mundial. La transferencia de datos y comunicación se realiza en su mayoría a través de internet, líneas telefónicas fijas, telefonía móvil, casi en cualquier lugar del mundo. 
